@@ -1,0 +1,265 @@
+/* Company.css */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;600&display=swap');
+
+.foodie{
+ display: flex;
+ margin-left: 215px;
+ margin-top: -15px;
+ width: 60px;
+ height: 20px;
+
+}
+.titulo{
+  display: flex;
+  margin-left: 200px;
+  margin-top: 100px;
+  width: 350px;
+  height: 100px;
+}
+.titulo1{
+  display: flex;
+  width: 310px;
+  margin-left: 540px;
+  margin-top: 30px;
+}
+.subtitulo0{
+  width: 350px;
+  margin-top: 50px;
+  margin-left: -540px;
+}
+.subtitulo{
+  display: flex;
+  width: 310px;
+  margin-left: 540px;
+  margin-top: 20px;
+}
+.subtitulo2{
+  display: flex;
+  width: 320px;
+  margin-left: 540px;
+  margin-top: 20px;
+}
+.subtitulo3{
+  width: 370px;
+  height: 55px;
+  margin-top: 20px;
+  margin-left: 90px;
+}
+.work{
+  margin-top: 90px;
+}
+.funciona{
+  width: 230px;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+.box{
+  width: 570px;
+  margin-top: 80px;
+  margin-left: 100px;
+}
+.depoimentos{
+  width: 370px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.container{
+  width: 570px;
+  margin-left: 100px;
+  margin-top: 40px;
+}
+.contato{
+  width: 250px;
+  height: 90px;
+  margin-left: 110px;
+  margin-top: 100px ;
+}
+.sessao{
+  width: 130px;
+  margin-left: -380px;
+  margin-top: 90px;
+}
+.sessao2{
+  width: 510px;
+  margin-top: -210px;
+  margin-left: 300px;
+}
+.background2{
+    display: flex;
+    width: 560px;
+    height: 610px;
+    margin-top: -15px;
+    margin-left: 730px;
+}
+.background{
+  display: flex;
+  width: 220px;
+  height: 1002px;
+  flex-shrink: 0;
+  margin-top: -599px;
+  padding-left: -100px;
+}
+.navbar{
+  display: flex;
+  margin-top: -600px;
+  margin-left: 435px;
+  width: 700px;
+   }
+.banner{
+    display: flex;
+    width: 670px;
+    height: 700px;
+  flex-shrink: 0;
+  margin-left: 1890px;
+  margin-top: -550px;
+  }
+  .banner1{
+    display: flex;
+  width: 27px;
+  height: 29px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #373737;
+  }
+  .image{
+    display: flex;
+    width: 555px;
+    height: 429px;
+    flex-shrink: 0;
+    margin-top: -400px;
+    margin-left: -10px;
+  }  
+  .work{
+    width: 70px;
+    margin-top: 200px;
+    margin-left: 100px;
+  }
+.textlink{
+  display: flex;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 1000;
+  margin-left: 580px;
+  margin-top: -600px;
+  gap: 40px;
+}
+.textlink2{
+  text-decoration: none;
+  color: #373737;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  cursor: pointer;
+}
+.divcart{
+  margin-left: 1000px;
+ margin-top: -40px;
+ margin-left: 680px;
+}
+.cart{
+  width: 30px;
+}
+.divbutt0n{
+margin-top: -20px;
+font-weight: 700;
+font-size: 10px;
+}
+.button{
+border-radius: 100px;
+border: none;
+width: 140px;
+height: 50px;
+margin-left: 930px;
+margin-top: -30px;
+font-family: "Montserrat", sans-serif;
+font-weight: 1000;
+cursor: pointer;
+}
+.button2{
+  display: flex;
+padding: 19px 66px;
+padding-left: 29px;
+border-radius: 100px;
+border: none;
+background: #FE9E0D;
+margin-left: 200px;
+margin-top: 20px;
+color: #FFF;
+font-family: "Montserrat", sans-serif;
+font-size: 15px;
+font-weight: 700;
+cursor: pointer;
+}
+.divseta{
+  margin-top: -35px;
+  margin-left: -490px ;
+}
+.seta{
+  width: 17px;
+}
+.button3{
+cursor: pointer;
+border-radius: 100px;
+border: none;
+background: #FE9E0D;
+width: 170px;
+height: 55px;
+margin-left: 50px ;
+color: #FFF;
+font-family: "Montserrat", sans-serif;
+font-size: 15px;
+font-weight: 700;
+}
+.divbutton{
+  margin-left: -100px;
+  margin-top: -60px;
+  cursor: pointer;
+}
+.play{
+ margin-left: 260px;
+ cursor: pointer;
+ margin-top: 25px;
+}
+.divplay{
+  margin-top: 25px;
+}
+.watch{
+  color: #515151;
+font-family: Montserrat;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-top: -437px;
+margin-left: 430px;
+cursor: pointer;
+}
+.input{
+  display: flex;
+width: 552px;
+height: 70px;
+border-radius: 100px;
+border: none;
+margin-left: 400px;
+margin-top: 30px;
+cursor: pointer;
+}
+.butt00n{
+  display: flex;
+width: 150px;
+height: 50px;
+border-radius: 100px;
+border: none;
+margin-left: 800px;
+margin-top: -60px;
+justify-content: center;
+align-items: center;
+background: #FE9E0D;
+color: #FFF;
+font-family: Montserrat;
+font-size: 15px;
+font-weight: 700;
+cursor: pointer;
+}

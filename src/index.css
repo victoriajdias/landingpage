@@ -1,0 +1,41 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;600&display=swap');
+
+/* index.css */
+.App {
+  text-align: center;
+}
+.App{
+  background-color: rgb(250, 246, 246);
+}
+.content{
+   width: 100vw;
+   height: 70px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   padding-left: 30rem;
+}
+
+.botao2{
+  width: 170px;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.play{
+  width: 50px;
+  margin-left: 20px;
+}
+.assistir{
+  display: flex;
+ margin-left: 790px;
+ width: 110px;
+ margin-top: -440px;
+}
+.sobre{
+  display: flex;
+  margin-top: 450px;
+  margin-left: 545px;
+  width: 40px;
+}
+
